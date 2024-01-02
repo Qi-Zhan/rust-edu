@@ -1,3 +1,6 @@
 [submodule "zhejiang-university/system-programming/fall23/lh_zyk_db"]
 	path = zhejiang-university/system-programming/fall23/lh_zyk_db
 	url = git@github.com:mirthfulLee/rust_db.git
+[submodule "zhejiang-university/system-programming/fall23/medical_smart_contract_hz_jtk_dm"]
+	path = zhejiang-university/system-programming/fall23/medical_smart_contract_hz_jtk_dm
+	url = https://github.com/rust-work-medical/medicalContract-near.git
