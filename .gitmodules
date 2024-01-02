@@ -1,3 +1,6 @@
 [submodule "zhejiang-university/system-programming/fall23/lh_zyk_db"]
 	path = zhejiang-university/system-programming/fall23/lh_zyk_db
 	url = git@github.com:mirthfulLee/rust_db.git
+[submodule "zhejiang-university/system-programming/fall23/memfs"]
+	path = zhejiang-university/system-programming/fall23/memfs
+	url = https://github.com/ztelliot/memfs.git
